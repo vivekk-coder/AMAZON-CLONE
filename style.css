@@ -228,6 +228,11 @@ flex-wrap: wrap;
     font-weight: 50;
 }
 
+.foot-panel1 a{
+    color: white;
+  text-decoration: none; /* underline hatane ke liye optional */
+}
+
 .foot-panel2{
     background-color: #232f3e;
     color: white;
